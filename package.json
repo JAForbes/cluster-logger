@@ -1,0 +1,29 @@
+{
+  "name": "cluster-logger",
+  "version": "0.0.0",
+  "description": "Cluster worker logs are proxied to the mater process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAForbes/cluster-logger.git"
+  },
+  "keywords": [
+    "cluster",
+    "logs",
+    "logger",
+    "child_process",
+    "child",
+    "process",
+    "master",
+    "worker"
+  ],
+  "author": "james.a.forbes@gmail.com <=> (http://james-forbes.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAForbes/cluster-logger/issues"
+  },
+  "homepage": "https://github.com/JAForbes/cluster-logger#readme"
+}
